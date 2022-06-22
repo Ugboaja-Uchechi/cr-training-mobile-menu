@@ -3,6 +3,8 @@
 
 This is my Microverse project called "Portfolio" (Mobile and Desktop version) built using JavaScript, HTML and CSS only.
 
+## Get Live Demo
+
 ## Built With
 - HTML
 - CSS
@@ -20,14 +22,7 @@ Below are some features of this project:
 
 3. Has a contact me section.
 
-## Get Live Demo
-Live Demo Link
-
-Built with :
-
-HTML and CSS
-
-# Author
+## Author
 
 👤Ugboaja-Uchechi
 
