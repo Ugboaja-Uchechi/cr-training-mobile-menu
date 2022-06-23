@@ -12,6 +12,7 @@ html {
 
 a {
   text-decoration: none;
+  color: #fff;
 }
 
 hr {
@@ -27,7 +28,11 @@ header {
   color: white;
 }
 
-#desktop-nav, #desktop-nav ul {
+#desktop-nav {
+  display: none;
+}
+
+#close {
   display: none;
 }
 
@@ -237,6 +242,7 @@ li {
   text-align: center;
   color: #fff;
   padding: 5px;
+  border-bottom: 1px solid #fff;
 }
 
 .card-stacks li {
